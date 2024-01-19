@@ -1,0 +1,41 @@
+css
+
+for setting the height on top for the heading
+- line-height: 5rem;      <h2>
+
+If the images looking like to much contrast & not looking like fit
+-onject-fit: cover;            <img>
+
+For Making square img into circle
+-border-radius: 50%;
+
+For Setting all the img side by side / set then on same line
+-display: flex;
+
+For align- vertically and horizontically
+-justify-content: center;
+-align-items: center;
+
+-.choice:hover{
+    opacity: 0.5;
+}
+
+Up down text to side by side
+-display flex
+
+Arrange in Center
+-justify-content: center;
+
+Vertically Align
+-align-items: center;
+
+<!-- Play game container design -->
+Dont want the background color on all screen only required with the content size
+-display: inline;
+
+-Increase size from inside -padding
+-padding: 1rem;        
+
+Make the corner Curve
+-border-radius: 1rem;
+
